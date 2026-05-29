@@ -209,5 +209,4 @@ This textbook is complete and maintained for educational purposes.
 - [Chapter 10 — Essential Git Concepts](https://github.com/AnnaRaghavendra/git-textbook/blob/main/10-Essential%20Git%20Concepts.md)
 
 - [Index](https://github.com/AnnaRaghavendra/git-textbook/blob/main/Index.md)
-```
 
