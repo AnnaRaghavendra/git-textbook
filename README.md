@@ -165,3 +165,21 @@ The emphasis is on understanding concepts rather than memorizing commands.
 This project is intended for educational purposes.
 
 Feel free to learn from, reference, and improve upon the material.
+
+---
+
+## Status
+
+Current Version: v1.0
+
+Topics Covered:
+- Foundations
+- Branching
+- Merging
+- Rebase
+- Recovery
+- Collaboration
+- Tags
+- Advanced Git Concepts
+
+This textbook is complete and maintained for educational purposes.
