@@ -183,3 +183,9 @@ Topics Covered:
 - Advanced Git Concepts
 
 This textbook is complete and maintained for educational purposes.
+
+---
+
+## Chapters
+
+- [Chapter 1 — Foundations of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/01-Foundations-of-Git.md)
