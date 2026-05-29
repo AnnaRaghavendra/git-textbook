@@ -189,3 +189,25 @@ This textbook is complete and maintained for educational purposes.
 ## Chapters
 
 - [Chapter 1 — Foundations of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/01-Foundations-of-Git.md)
+
+- [Chapter 2 — The Internal Architecture of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/02-The-Internal-Architecture-of-Git.md)
+
+- [Chapter 3 — Branching and Merging](https://github.com/AnnaRaghavendra/git-textbook/blob/main/03-Branching-and-Merging.md)
+
+- [Chapter 4 — Rewriting History](https://github.com/AnnaRaghavendra/git-textbook/blob/main/04-Rewriting-History.md)
+
+- [Chapter 5 — Undoing and Recovery](https://github.com/AnnaRaghavendra/git-textbook/blob/main/05-Undoing-and-Recovery.md)
+
+- [Chapter 6 — Repository Maintenance](https://github.com/AnnaRaghavendra/git-textbook/blob/main/06-Repository-Maintenance.md)
+
+- [Chapter 7 — Remote Repositories and Collaboration](https://github.com/AnnaRaghavendra/git-textbook/blob/main/07-Remote-Repositories-and-Collaboration.md)
+
+- [Chapter 8 — Releases and Versioning](https://github.com/AnnaRaghavendra/git-textbook/blob/main/08-Releases-and-Versioning.md)
+
+- [Chapter 9 — Advanced Topics](https://github.com/AnnaRaghavendra/git-textbook/blob/main/09-Advanced-Topics.md)
+
+- [Chapter 10 — Essential Git Concepts](https://github.com/AnnaRaghavendra/git-textbook/blob/main/10-Essential-Git-Concepts.md)
+
+- [Index](https://github.com/AnnaRaghavendra/git-textbook/blob/main/Index.md)
+```
+
