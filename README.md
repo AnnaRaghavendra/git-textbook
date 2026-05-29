@@ -190,23 +190,23 @@ This textbook is complete and maintained for educational purposes.
 
 - [Chapter 1 — Foundations of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/01-Foundations-of-Git.md)
 
-- [Chapter 2 — The Internal Architecture of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/02-The-Internal-Architecture-of-Git.md)
+- [Chapter 2 — The Internal Architecture of Git](https://github.com/AnnaRaghavendra/git-textbook/blob/main/02-The%20Internal%20Architecture%20of%20Git.md)
 
-- [Chapter 3 — Branching and Merging](https://github.com/AnnaRaghavendra/git-textbook/blob/main/03-Branching-and-Merging.md)
+- [Chapter 3 — Branching and Merging](https://github.com/AnnaRaghavendra/git-textbook/blob/main/03-Branching%20and%20Merging.md)
 
-- [Chapter 4 — Rewriting History](https://github.com/AnnaRaghavendra/git-textbook/blob/main/04-Rewriting-History.md)
+- [Chapter 4 — Rewriting History](https://github.com/AnnaRaghavendra/git-textbook/blob/main/04-Rewriting%20History.md)
 
-- [Chapter 5 — Undoing and Recovery](https://github.com/AnnaRaghavendra/git-textbook/blob/main/05-Undoing-and-Recovery.md)
+- [Chapter 5 — Undoing and Recovery](https://github.com/AnnaRaghavendra/git-textbook/blob/main/05-Undoing%20and%20Recovery.md)
 
-- [Chapter 6 — Repository Maintenance](https://github.com/AnnaRaghavendra/git-textbook/blob/main/06-Repository-Maintenance.md)
+- [Chapter 6 — Repository Maintenance](https://github.com/AnnaRaghavendra/git-textbook/blob/main/06-Repository%20Maintenance.md)
 
-- [Chapter 7 — Remote Repositories and Collaboration](https://github.com/AnnaRaghavendra/git-textbook/blob/main/07-Remote-Repositories-and-Collaboration.md)
+- [Chapter 7 — Remote Repositories and Collaboration](https://github.com/AnnaRaghavendra/git-textbook/blob/main/07-Remote%20Repositories%20and%20Collaboration.md)
 
-- [Chapter 8 — Releases and Versioning](https://github.com/AnnaRaghavendra/git-textbook/blob/main/08-Releases-and-Versioning.md)
+- [Chapter 8 — Releases and Versioning](https://github.com/AnnaRaghavendra/git-textbook/blob/main/08-Releases%20and%20Versioning.md)
 
-- [Chapter 9 — Advanced Topics](https://github.com/AnnaRaghavendra/git-textbook/blob/main/09-Advanced-Topics.md)
+- [Chapter 9 — Advanced Topics](https://github.com/AnnaRaghavendra/git-textbook/blob/main/09-Advanced%20Topics.md)
 
-- [Chapter 10 — Essential Git Concepts](https://github.com/AnnaRaghavendra/git-textbook/blob/main/10-Essential-Git-Concepts.md)
+- [Chapter 10 — Essential Git Concepts](https://github.com/AnnaRaghavendra/git-textbook/blob/main/10-Essential%20Git%20Concepts.md)
 
 - [Index](https://github.com/AnnaRaghavendra/git-textbook/blob/main/Index.md)
 ```
